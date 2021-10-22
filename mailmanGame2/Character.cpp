@@ -1,4 +1,6 @@
 #pragma once
 #include "Character.h"
 
-void move(float x, float y) {}
+void move(float x, float y) {
+	int test;
+}
