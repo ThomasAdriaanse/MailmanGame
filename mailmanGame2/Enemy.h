@@ -2,7 +2,7 @@
 #include "Character.h"
 
 
-class Ghost
+class Dog
 {
 private:
 	int hungerLeft;
